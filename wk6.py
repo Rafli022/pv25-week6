@@ -18,7 +18,7 @@ class SliderApp(QMainWindow):
         
         # Student information (replace with your actual name and NIM)
         self.name = "RAFLI"
-        self.nim = "F1D022022"  # Replace with your actual NIM
+        self.nim = "F1D022022"  
         
         # Create info label
         info_label = QLabel(f"Nama: {self.name} | NIM: {self.nim}")
